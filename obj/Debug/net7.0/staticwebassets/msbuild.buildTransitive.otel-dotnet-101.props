@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/otel-dotnet-101.props" />
+</Project>

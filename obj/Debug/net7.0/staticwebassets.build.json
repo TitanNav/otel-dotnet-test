@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7JXlyLM6hefjuBWayreGCUI15th4jNvRDiFNPIAvjzE=",
+  "Source": "otel-dotnet-101",
+  "BasePath": "_content/otel-dotnet-101",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
